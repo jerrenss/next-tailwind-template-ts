@@ -1,7 +1,3 @@
-import Example from '../components/Example'
+import Home from '../views/home'
 
-function Homepage(): JSX.Element {
-  return <Example />
-}
-
-export default Homepage
+export default Home
